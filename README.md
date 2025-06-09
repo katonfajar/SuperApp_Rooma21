@@ -11,3 +11,27 @@
 - **REST API Modern:** Endpoints terstandarisasi, mudah diintegrasikan dengan mobile apps & frontend modern.
 - **Keamanan:** Sistem API Key, validasi data, dan best practice keamanan.
 - **Ekosistem Terpadu:** Siap diintegrasikan dengan CRM, notifikasi, cloud storage, hingga analitik performa properti.
+
+## 💡 Teknologi
+
+- PHP 7+ & WordPress environment (customized)
+- MySQL / MariaDB
+- RESTful JSON API
+- Modular & scalable codebase
+
+## 👩‍💻 Kontribusi
+
+- Pull request & issue sangat terbuka untuk pengembangan, bugfix, atau ide baru
+- Silakan fork repo ini dan buat branch dengan fitur atau perbaikan yang ingin kamu kontribusikan
+
+## 🏢 Tentang Rooma21
+
+**Rooma21** adalah platform referensi real estate, mortgage & realtor di Indonesia, hadir untuk millennial dan genzie mewujudkan gaya hidup impian.  
+Kunjungi: [www.rooma21.com](https://www.rooma21.com)
+
+---
+
+**Visit www.rooma21.com: kami lebih dari sekadar platform properti, rumah ideal dimulai dari referensi yang tepat.**  
+**rooma21.com: referensi real estate, mortgage & realtor di Indonesia, hadir untuk millenial dan genzie mewujudkan gaya hidup impian.**
+
+---
